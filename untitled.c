@@ -2,6 +2,7 @@
 #include <string.h>
 
 	int main() {
+<<<<<<< HEAD
 		
 		int selezioneDifficolta, lunghezzaParolaSegreta, selezioneLetteraParola;
 		char parolaSegreta[15], tentativoLetteraDaIndovinare, tentativoParolaDaIndovinare[5];
@@ -55,5 +56,8 @@
 		}
 
 
+=======
+		a;
+>>>>>>> b6d6a08439dd1f60f237c284a27566db58a2b3b5
 		return 0;
 	}
